@@ -1,4 +1,5 @@
 // api/chat.js - Real AI Healthcare Advocacy Chatbot with Claude
+// This version should definitely work! Claude API key added.
 
 export default async function handler(req, res) {
   // Handle CORS
